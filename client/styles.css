@@ -1,0 +1,21 @@
+.header {
+    text-align: center
+}
+
+.form {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.input {
+    width: 100%;
+}
+
+/*why is it not working?*/
+.loading-img {
+    text-align: center;
+}
+.tweets{
+    width: 80%;
+    margin: 0 auto;
+}
